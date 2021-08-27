@@ -15,7 +15,10 @@ Tip: you can generate a Personal Access Token here https://github.com/settings/t
 The minimum required scopes are 'repo', 'read:org', 'workflow'.
 
 ? Paste your authentication token: ****************************************
+
 - gh config set -h github.com git_protocol https
+
 ✓ Configured git protocol
+
 ✓ Logged in as necmettin-tuerkkal
 
